@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/sbinlondon/untitled-goose-bot/issues"
   },
-  "homepage": "https://github.com/sbinlondon/untitled-goose-bot#readme"
+  "homepage": "https://github.com/sbinlondon/untitled-goose-bot#readme",
+  "dependencies": {
+    "slack": "^11.0.2"
+  }
 }
