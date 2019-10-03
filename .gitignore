@@ -1,0 +1,6 @@
+node_modules/
+!.eslintrc
+!.eslintignore
+.DS_STORE
+npm-debug.log*
+.env
