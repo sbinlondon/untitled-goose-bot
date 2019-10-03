@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/sbinlondon/untitled-goose-bot#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "slack": "^11.0.2"
   }
 }
